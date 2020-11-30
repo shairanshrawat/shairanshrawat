@@ -12,14 +12,14 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 [![MAIL Badge](https://img.shields.io/badge/-shairanshrawat2506@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shairanshrawat2506@gmail.com)](mailto:shairanshrawat2506@gmail.com)
 
 
-<table>
+ <table>
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/shairanshrawat/count.svg" alt="vistor count" height="50" /></td>
   </tr>
-</table>
-
-### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
+ </table>
+</div>
+## Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 <img align='right' src="Assests\shot_02.webp" width="230"><br>
 <ul>
   <li> 🔭 I’m currently working on <b>MERN</b></li>
