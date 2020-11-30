@@ -52,7 +52,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
 
-![Shairan's Github Stats](https://github-readme-stats.vercel.app/api?username=shairanshrawat&show_icons=true&theme=radical)       [![Top Langs]https://github-readme-stats.vercel.app/api/top-langs/?username=shairanshrawat&theme=radical)](https://github.com/shairanshrawat/github-readme-stats)
+![Shairan's Github Stats](https://github-readme-stats.vercel.app/api?username=shairanshrawat&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shairanshrawat&theme=radical)
 
 
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
