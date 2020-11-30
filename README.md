@@ -63,7 +63,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/ShrawatShairan">shrawatshairan</a> 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="Assests\download.png/">Shairan Shrawat</a> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/shairanshrawat/">Shairan Shrawat</a> 
 
 <img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://www.instagram.com/shairan_shrawat/">shairan_shrawat</a> 
 
