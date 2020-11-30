@@ -18,8 +18,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
     <td><img src="https://profile-counter.glitch.me/shairanshrawat/count.svg" alt="vistor count" height="50" /></td>
   </tr>
  </table>
-</div>
+
 ## Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
+</div>
 <img align='right' src="Assests\shot_02.webp" width="230"><br>
 <ul>
   <li> 🔭 I’m currently working on <b>MERN</b></li>
@@ -57,7 +58,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
-<img align='right' src="Assests\CookedSparseFlickertailsquirrel-small.gif" width="230">
+<img align='right' src="Assests\CookedSparseFlickertailsquirrel-small.gif" width="300">
 
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/ShrawatShairan">shrawatshairan</a> 
 
