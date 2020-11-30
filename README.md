@@ -21,15 +21,16 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 <img align='right' src="Assests\shot_02.webp" width="230">
-
-- 🔭 I’m currently working on <b>MERN</b>
-- :memo: I’m currently learning <b>Data Structures,JS,CSS</b>
-- 👯 I’m looking to collaborate on <b>Projects on Python</b>
-- 🤔 I’m looking for help with <b>JavaScript</b>
-- 💬 Ask me about <b>Anything</b>
-- 😄 Pronouns:<b>She/her</b>
-- :four_leaf_clover: I'm a :musical_note:lover</b>
-- ⚡ Fun fact: <b>I ❤️ :dog:s</b>
+<ul>
+  <li> 🔭 I’m currently working on <b>MERN</b></li>
+  <li> :memo: I’m currently learning <b>Data Structures,JS,CSS</b></li>
+  <li> 👯 I’m looking to collaborate on <b>Projects on Python</b></li>
+  <li> 🤔 I’m looking for help with <b>JavaScript</b></li>
+  <li> 💬 Ask me about <b>Anything</b></li>
+  <li> 😄 Pronouns:<b>She/her</b></li>
+  <li> :four_leaf_clover: I'm a :musical_note:lover</b></li>
+ <li> ⚡ Fun fact: <b>I ❤️ :dog:s</b></li>
+</ul>
 
 ## Languages and Tools : <img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
 <code><img height="30" src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/the-c-programming-language-computer-programming-png-1600x1600px-c-programming-language-png-820_819.jpg"></code>
