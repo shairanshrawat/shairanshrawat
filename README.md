@@ -20,7 +20,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
   </table>
  </div>
 
-## Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
+## Pleased to meet you <img src="Assests/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6d47634e6a736657416a593541455a4e77362f67697068792e676966.gif" width="120px">
 <ul>
 <img align='right' src="Assests\shot_02.webp" width="365px"><br>
 
