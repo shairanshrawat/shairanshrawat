@@ -70,4 +70,4 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 
 
 
-<img src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="39px">  *<b>I love talking to people:smiley:</b> so if you see me just say <b>hi, I'll be happy to meet you more :two_hearts: </b>*
+<img src="https://camo.githubusercontent.com/6ba7b982e69849c28d40e15131d5557cd65455a6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="39px">  *<b>I love talking to people:smiley:</b> so if you see me just say <b>hi, I'll be more happy to meet you:two_hearts: </b>*
