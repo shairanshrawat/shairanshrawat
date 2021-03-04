@@ -25,8 +25,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <img align='right' src="Assests\shot_02.webp" width="365px"><br>
 
   <li> 🔭 I’m currently working on <b>MERN Stack</b></li>
-  <li> :memo: I’m currently learning <b>Data Structures,JS</b></li>
-  <li> 👯 I’m looking to collaborate on <b>Projects on Web Development</b></li>
+  <li> :memo: I’m currently learning <b>React and JS</b></li>
+  <li> 👯 I’m looking to collaborate on <b>Projects on Web Projects</b></li>
   <li> 🤔 I’m looking for help with <b>JavaScript</b></li>
   <li> 💬 Ask me about <b>Anything</b></li>
   <li> 😄 Pronouns:<b>She/her</b></li>
