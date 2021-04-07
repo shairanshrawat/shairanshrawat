@@ -49,7 +49,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/256px-Figma-logo.svg.png"></a>"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/256px-Figma-logo.svg.png"></code>
 <code><img height="30" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
