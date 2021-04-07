@@ -24,8 +24,8 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <ul>
 <img align='right' src="Assests\shot_02.webp" width="365px"><br>
 
-  <li> 🔭 I’m currently working on <b>MERN Stack</b></li>
-  <li> :memo: I’m currently learning <b>React and JS</b></li>
+  <li> 🔭 I’m currently working on <b>Web Development</b></li>
+  <li> :memo: I’m currently learning <b>React and UI Design</b></li>
   <li> 👯 I’m looking to collaborate on <b>Projects on Web Projects</b></li>
   <li> 🤔 I’m looking for help with <b>JavaScript</b></li>
   <li> 💬 Ask me about <b>Anything</b></li>
@@ -47,10 +47,9 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg"></code>
-<code><img height="30" src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/5f2ffc928c1d2.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/256px-Figma-logo.svg.png"></a>"></code>
 <code><img height="30" src="https://www.qwiklabs.com/qwiklabs_logo_900x887.png"></code>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats]*
@@ -61,11 +60,11 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 ## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
 <img align='right' src="Assests\CookedSparseFlickertailsquirrel-small.gif" width="350px">
 
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/ShrawatShairan">shrawatshairan</a> 
+<img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/ShrawatShairan">shrawatshairan</a> 
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/shairanshrawat/">Shairan Shrawat</a> 
+<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="https://www.linkedin.com/in/shairanshrawat/">Shairan Shrawat</a> 
 
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://www.instagram.com/shairan_shrawat/">shairan_shrawat</a> 
+<img align="left" alt="codeSTACKr | Instagram" width="35px" style=fillsrc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="https://www.instagram.com/shairan_shrawat/">shairan_shrawat</a> 
 
 
 
