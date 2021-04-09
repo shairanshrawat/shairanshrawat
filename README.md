@@ -57,7 +57,7 @@ Please feel free to clone projects, raise issues and submit PRs if you think som
 ![Shairan's Github Stats](https://github-readme-stats.vercel.app/api?username=shairanshrawat&show_icons=true&theme=radical)       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shairanshrawat&theme=radical)
 
 
-## Find me around the web <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Earth.gif" width="24px"> :
+## Find me around the web <img src="./Assests/giphy-unscreen.gif" width="100px"> :
 <img align='right' src="Assests\CookedSparseFlickertailsquirrel-small.gif" width="350px">
 
 <img align="left" alt="codeSTACKr | Twitter" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> <a href="https://twitter.com/ShrawatShairan">shrawatshairan</a> 
